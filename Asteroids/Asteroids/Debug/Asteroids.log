@@ -1,0 +1,31 @@
+﻿  Asteroids.cpp
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(118,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(132,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(143,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(143,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(147,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(226,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(226,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(227,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(227,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(266,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(266,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(265,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\Ryan\source\repos\Asteroids\Asteroids\Asteroids.cpp(265,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  Asteroids.vcxproj -> C:\Users\Ryan\source\repos\Asteroids\Debug\Asteroids.exe
